@@ -1,1 +1,1 @@
-# prettier-config-kiizan
+# npm
