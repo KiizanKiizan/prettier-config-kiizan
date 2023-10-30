@@ -1,0 +1,19 @@
+{
+  "name": "@kiizan_kiizan/prettier-config",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiizanKiizan/prettier-config-kiizan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KiizanKiizan/prettier-config-kiizan/issues"
+  },
+  "homepage": "https://github.com/KiizanKiizan/prettier-config-kiizan#readme"
+}
